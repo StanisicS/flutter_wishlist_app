@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6377247587",
+    "project_id": "flutter-wishlist",
+    "storage_bucket": "flutter-wishlist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6377247587:android:478a77ec6f6ff029edf956",
+        "android_client_info": {
+          "package_name": "dev.evansit.flutter_wishlist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6377247587-9so7oi8cir6vqq27qvuugctvv2dsmacq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46-rjNO0KDZSUEhi4LmW03gA3Kx6zuHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6377247587-9so7oi8cir6vqq27qvuugctvv2dsmacq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
